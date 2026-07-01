@@ -1,2 +1,2 @@
 build:
-	@python solarized.py
+	@python3 selenized.py
